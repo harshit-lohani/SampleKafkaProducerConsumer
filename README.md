@@ -10,4 +10,6 @@ To run:<br>
 ```
 > .\bin\windows\kafka-server-start.bat .\config\server.properties
 ```
-3. Run the configuration "Both" in IntelliJ
+3. Run the configuration "Both" in IntelliJ<br>
+   alternatively<br>
+3. Run both MessageReciever.java and MessageSender.java in seperate terminals
